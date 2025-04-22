@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Karim
 
 - 🎓 Systems & Biomedical Engineering student at Cairo University  
-- 🧠 Passionate about AI in healthcare, embedded systems, and open source  
+- 🧠 Passionate about AI, data science, and leveraging technology to solve complex, real-world problems 
 - 🔬 Currently working on: Growing my skills while contributing to open-source projects
 - 🚀 Exploring: software engineering, AI-driven solutions, intelligent systems, and impactful technologies that shape the future
 
