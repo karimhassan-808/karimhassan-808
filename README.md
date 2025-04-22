@@ -30,6 +30,17 @@ I'm constantly growing by:
 
 ---
 
+## 🎯 2025 Goals
+
+- ✅ Deepen my expertise in AI, machine learning, and data science  
+- 🛠 Contribute to impactful open-source projects in healthcare and systems engineering  
+- 📚 Complete advanced coursework in AI and software engineering  
+- 🤝 Collaborate with global communities through initiatives 
+- 🚀 Build and share meaningful personal projects that solve real-world problems  
+- 🧠 Explore research opportunities that merge AI with biomedical innovation
+
+---
+
 ## 🌐 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-hassan-30b389315)
