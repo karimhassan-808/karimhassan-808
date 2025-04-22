@@ -14,7 +14,8 @@
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cpp)  
 ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
 
 ---
 
