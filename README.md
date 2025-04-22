@@ -18,12 +18,12 @@
 
 ## 🚧 Building, Learning, Growing
 
-I believe in learning by doing—and I’m always working on something new. Whether it’s diving into AI for healthcare, reverse-engineering a sensor module, or exploring 3D medical imaging, I love turning complex ideas into working code.
+I believe in learning by doing—and I’m always building, experimenting, and exploring. Whether it's developing ideas from scratch or diving into unfamiliar challenges, I thrive on turning concepts into reality through code and creativity.
 
-I’m constantly leveling up:
-- Learning new stacks on the fly
-- Tackling real-world problems with code
-- Merging creativity with technical depth
+I'm constantly growing by:
+- Adapting to new tools and technologies
+- Tackling meaningful, real-world problems
+- Combining curiosity with a drive for technical excellence
 
 ---
 
