@@ -9,7 +9,8 @@
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cpp)  ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cpp)  ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)  ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  ![Anaconda](https://img.shields.io/badge/-Anaconda-333?style=flat&logo=anaconda)
+
 
 ---
 
