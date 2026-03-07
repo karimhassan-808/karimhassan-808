@@ -25,7 +25,7 @@ I'm constantly growing by:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Goals
 
 - ✅ Deepen my expertise in AI, machine learning, and data science  
 - 🛠 Contribute to impactful open-source projects in healthcare and systems engineering  
