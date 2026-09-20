@@ -79,7 +79,3 @@ I am particularly interested in applying computational methods to complex biolog
 [Email](mailto:karim.abdelmoaty05@eng-st.cu.edu.eg)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karimhassan-808&style=flat-square&color=grey" alt="Profile views"/>
-</p>
