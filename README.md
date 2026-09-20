@@ -71,27 +71,6 @@ I am particularly interested in applying computational methods to complex biolog
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimhassan-808&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimhassan-808&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karimhassan-808&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimhassan-808&theme=github-compact&hide_border=true" />
-</p>
-
----
-
 ## Connect
 
 [GitHub](https://github.com/karimhassan-808) ·
