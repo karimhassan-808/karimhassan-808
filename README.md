@@ -1,42 +1,106 @@
-## 👋 Hi, I'm Karim
+# Karim Hassan
 
-- 🎓 Systems & Biomedical Engineering student at Cairo University  
-- 🧠 Passionate about AI, data science, and leveraging technology to solve complex, real-world problems 
-- 🔬 Currently working on: Growing my skills while contributing to open-source projects
-- 🚀 Exploring: software engineering, AI-driven solutions, intelligent systems, and impactful technologies that shape the future
+### Biomedical Engineering Student | AI & Data Science | Computational Neuroscience
 
----
-
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cpp)  ![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)  ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  ![Anaconda](https://img.shields.io/badge/-Anaconda-333?style=flat&logo=anaconda)
-
+[![GitHub](https://img.shields.io/badge/GitHub-karimhassan--808-181717?style=flat-square\&logo=github)](https://github.com/karimhassan-808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karimhassan808-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/karimhassan808/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--0218--7985-A6CE39?style=flat-square\&logo=orcid)](https://orcid.org/0009-0005-0218-7985)
+[![Email](https://img.shields.io/badge/Email-karim.abdelmoaty05%40eng--st.cu.edu.eg-555555?style=flat-square\&logo=gmail)](mailto:karim.abdelmoaty05@eng-st.cu.edu.eg)
 
 ---
 
-## 🚧 Building, Learning, Growing
+## About Me
 
-I believe in learning by doing—and I’m always building, experimenting, and exploring. Whether it's developing ideas from scratch or diving into unfamiliar challenges, I thrive on turning concepts into reality through code and creativity.
+I am a Biomedical Engineering student at **Cairo University** with a strong interest in **Artificial Intelligence, Data Science, Medical Imaging, and Computational Neuroscience**.
 
-I'm constantly growing by:
-- Adapting to new tools and technologies
-- Tackling meaningful, real-world problems
-- Combining curiosity with a drive for technical excellence
+My current focus is on building practical skills in **machine learning, deep learning, computer vision, and AI engineering**, while developing a foundation for research in biomedical applications.
 
----
-
-## 🎯 Goals
-
-- ✅ Deepen my expertise in AI, machine learning, and data science  
-- 🛠 Contribute to impactful open-source projects in healthcare and systems engineering  
-- 📚 Complete advanced coursework in AI and software engineering  
-- 🤝 Collaborate with global communities through initiatives 
-- 🚀 Build and share meaningful personal projects that solve real-world problems  
-- 🧠 Explore research opportunities that merge AI with biomedical innovation
+I am particularly interested in applying computational methods to complex biological and medical data and exploring how AI can contribute to research in **medical imaging and neuroscience**.
 
 ---
 
-## 🌐 Contact me
+## Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-hassan-30b389315)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karim.abdelmoaty05@eng-st.cu.edu.eg)
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square\&logo=mathworks\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Machine Learning & AI
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
+
+**Current knowledge:** Machine Learning, Deep Learning, Neural Networks, Convolutional Neural Networks, Feature Engineering, Model Evaluation, Imbalanced Learning
+
+### Tools & Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+---
+
+## Currently Learning
+
+* Computer Vision
+* Natural Language Processing
+* Sequence Models
+* AI Engineering
+* Model Deployment & MLOps
+* Medical Image Analysis
+
+---
+
+## Research Interests
+
+* Computational Neuroscience
+* Medical Imaging
+* Computer Vision
+* Brain Imaging
+* Deep Learning
+* Biomedical Signal Processing
+* AI for Healthcare
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimhassan-808&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimhassan-808&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karimhassan-808&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimhassan-808&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+[GitHub](https://github.com/karimhassan-808) ·
+[LinkedIn](https://www.linkedin.com/in/karimhassan808/) ·
+[ORCID](https://orcid.org/0009-0005-0218-7985) ·
+[Email](mailto:karim.abdelmoaty05@eng-st.cu.edu.eg)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karimhassan-808&style=flat-square&color=grey" alt="Profile views"/>
+</p>
